@@ -102,6 +102,18 @@ const webpack = (): TsidebarItem[] => {
         {
           text: '提升开发体验',
           link: '/webpack/senior/developmentExperience'
+        },
+        {
+          text: '提升打包速度',
+          link: '/webpack/senior/developmentBuildSpeed'
+        },
+        {
+          text: '减少代码体积',
+          link: '/webpack/senior/reduceCodeVolume'
+        },
+        {
+          text: '优化代码运行性能',
+          link: '/webpack/senior/optimizePerformance'
         }
       ]
     },
@@ -111,6 +123,10 @@ const webpack = (): TsidebarItem[] => {
         {
           text: 'React脚手架',
           link: '/webpack/project/react-cli'
+        },
+        {
+          text: 'Vue脚手架',
+          link: '/webpack/project/vue-cli'
         }
       ]
     },
@@ -120,6 +136,10 @@ const webpack = (): TsidebarItem[] => {
         {
           text: 'Loader原理',
           link: '/webpack/principle/loader'
+        },
+        {
+          text: 'Plugin原理',
+          link: '/webpack/principle/plugin'
         }
       ]
     }

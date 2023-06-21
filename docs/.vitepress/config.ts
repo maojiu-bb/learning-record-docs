@@ -7,7 +7,7 @@ import { sidebar } from './config/sidebar'
  */
 
 export default defineConfig({
-  title: 'MaoJiu',
+  title: 'MaoJiuBlog',
   description: 'A learning recorder docs',
   lang: 'zh-CN',
   srcDir: 'src',
@@ -20,8 +20,10 @@ export default defineConfig({
   markdown: {
     lineNumbers: true
   },
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
-    siteTitle: 'MaoJiu',
+    logo: '/logo.png',
+    siteTitle: 'MaoJiuBlog',
     nav: nav(),
     sidebar: sidebar(),
     socialLinks: [
