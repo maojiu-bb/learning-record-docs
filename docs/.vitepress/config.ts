@@ -17,6 +17,9 @@ export default defineConfig({
       host: 'localhost'
     }
   },
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
     siteTitle: 'MaoJiu',
     nav: nav(),

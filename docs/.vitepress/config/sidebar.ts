@@ -73,6 +73,26 @@ const webpack = (): TsidebarItem[] => {
         {
           text: '处理其他资源',
           link: '/webpack/base/resolveOther'
+        },
+        {
+          text: '处理js资源',
+          link: '/webpack/base/resolveJs'
+        },
+        {
+          text: '处理html资源',
+          link: '/webpack/base/resolveHtml'
+        },
+        {
+          text: '开发服务器&自动化',
+          link: '/webpack/base/autoServer'
+        },
+        {
+          text: '生成模式',
+          link: '/webpack/base/productionMode'
+        },
+        {
+          text: '处理Css',
+          link: '/webpack/base/resolveCss'
         }
       ]
     },
