@@ -69,7 +69,7 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'Webpack',
-              link: '../webpack/前言.md'
+              link: '/webpack/preface'
             },
             {
               text: 'Vite',

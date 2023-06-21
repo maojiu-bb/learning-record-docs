@@ -10,6 +10,13 @@ export default defineConfig({
   title: 'MaoJiu',
   description: 'A learning recorder docs',
   lang: 'zh-CN',
+  srcDir: 'src',
+  vite: {
+    server: {
+      port: 3000,
+      host: 'localhost'
+    }
+  },
   themeConfig: {
     siteTitle: 'MaoJiu',
     nav: nav(),
