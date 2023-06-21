@@ -2,15 +2,7 @@
  * @nav
  */
 
-type Tnav =
-  | {
-      text: string
-      link: string
-    }
-  | {
-      text: string
-      items: Tnav[]
-    }
+import type { Tnav } from '../../types/global'
 
 export const nav = (): Tnav[] => {
   return [
