@@ -169,14 +169,14 @@ webpack 会先从左到右执行 loader 链中的每个 loader 上的 pitch 方�
 
 ## loader API
 
-| 方法名                     |                    含义                    |                                           用法 |
-| -------------------------- | :----------------------------------------: | ---------------------------------------------: |
-| this.async                 |    异步回调 loader。返回 this.callback     |                  const callback = this.async() |
-| this.callback              | 可以同步或者异步调用的并返回多个结果的函数 | this.callback(err, content, sourceMap?, meta?) |
-| this.getOptions(schema)    |           获取 loader 的 options           |                        this.getOptions(schema) |
-| this.emitFile 产生一个文件 |  this.emitFile(name, content, sourceMap)   |
-| this.utils.contextify      |              返回一个相对路径              |        this.utils.contextify(context, request) |
-| this.utils.absolutify      |              返回一个绝对路径              |        this.utils.absolutify(context, request) |
+|         方法名          |                    含义                    |                      用法                      |
+| :---------------------: | :----------------------------------------: | :--------------------------------------------: |
+|       this.async        |    异步回调 loader。返回 this.callback     |         const callback = this.async()          |
+|      this.callback      | 可以同步或者异步调用的并返回多个结果的函数 | this.callback(err, content, sourceMap?, meta?) |
+| this.getOptions(schema) |           获取 loader 的 options           |            this.getOptions(schema)             |
+|      this.emitFile      |                产生一个文件                |    this.emitFile(name, content, sourceMap)     |
+|  this.utils.contextify  |              返回一个相对路径              |    this.utils.contextify(context, request)     |
+|  this.utils.absolutify  |              返回一个绝对路径              |    this.utils.absolutify(context, request)     |
 
 更多文档，请查阅 [webpack 官方 loader api 文档](https://webpack.docschina.org/api/loaders/#the-loader-context)
 

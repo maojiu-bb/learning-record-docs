@@ -20,7 +20,7 @@ export default defineConfig({
   markdown: {
     lineNumbers: true
   },
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/logo.png' }]],
   themeConfig: {
     logo: '/logo.png',
     siteTitle: 'MaoJiuBlog',
@@ -31,6 +31,9 @@ export default defineConfig({
         icon: 'github',
         link: 'https://github.com/maojiu-bb'
       }
-    ]
+    ],
+    search: {
+      provider: 'local'
+    }
   }
 })
