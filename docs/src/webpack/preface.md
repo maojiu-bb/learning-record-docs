@@ -25,3 +25,9 @@
 ::: tip
 这里的内容摘录自[尚硅谷 webpack5 教程](https://yk2012.github.io/sgg_webpack5/)
 :::
+
+:::tip
+这里只是介绍基本的使用
+
+更多请查看[webpack 官方文档](https://www.webpackjs.com/)
+:::
