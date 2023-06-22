@@ -77,7 +77,7 @@ res = arr.splice(0, 0, 'Python', 'TS')
 arr.splice(1, 3, 'C', 'Go')
 ```
 
-## sort()
+## `sort()`
 
 对数组进行排序，修改原数组，返回排序后的数组。
 
