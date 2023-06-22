@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Getting Start ->
-      link: /webpack/preface
+      link: /html/index
     - theme: alt
       text: GitHub
       link: https://github.com/ox4f5da2

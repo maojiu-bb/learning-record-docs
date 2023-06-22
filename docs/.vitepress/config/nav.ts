@@ -14,11 +14,11 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'HTML',
-              link: '../html/README.md'
+              link: '/html/index'
             },
             {
               text: 'CSS',
-              link: '../style/README.md'
+              link: '/style/index'
             },
             {
               text: 'JavaScript',

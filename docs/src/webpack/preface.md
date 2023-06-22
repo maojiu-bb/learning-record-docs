@@ -21,3 +21,7 @@
 - ...
 
 目前市面上最流量的是 Webpack，所以我们主要以 Webpack 来介绍使用打包工具
+
+::: tip
+这里的内容摘录自[尚硅谷 webpack5 教程](https://yk2012.github.io/sgg_webpack5/)
+:::
