@@ -22,7 +22,7 @@ export const nav = (): Tnav[] => {
             },
             {
               text: 'JavaScript',
-              link: '../javascript/README.md'
+              link: '/javascript/index'
             }
           ]
         },
