@@ -31,11 +31,11 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'Vue',
-              link: '../vue/README.md'
+              link: '/vue/index.md'
             },
             {
               text: 'React',
-              link: '../react/README.md'
+              link: '/react/index.md'
             }
           ]
         },
