@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: MaoJiuBlog
-  text: 前端儿的学习记录
+  text: 前端学习记录
   tagline: 在午夜时分相遇，寻找真实的自己
   image:
     src: /logo.png
