@@ -9,6 +9,7 @@ import { webpack } from '../../src/webpack/sidebar'
 import { style } from '../../src/style/sidebar'
 import { javascript } from '../../src/javascript/sidebar'
 import { vue } from '../../src/vue/sidebar'
+import { react } from '../../src/react/sidebar'
 
 /**
  *
@@ -20,6 +21,7 @@ export const sidebar = (): Tsidebar => {
     '/style/': style(),
     '/javascript/': javascript(),
     '/vue/': vue(),
+    '/react/': react(),
     '/webpack/': webpack()
   }
 }
