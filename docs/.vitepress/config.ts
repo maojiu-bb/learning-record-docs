@@ -22,11 +22,15 @@ export default defineConfig({
     lineNumbers: true
   },
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  lastUpdated: true,
   themeConfig: {
     logo: '/logo.png',
     siteTitle: 'MaoJiuBlog',
     nav: nav(),
     sidebar: sidebar(),
+    outline: [2, 3],
+    outlineTitle: 'Have a clear structure',
+    lastUpdatedText: 'Last Updated',
     socialLinks: [
       {
         icon: 'github',
@@ -43,6 +47,13 @@ export default defineConfig({
     ],
     search: {
       provider: 'local'
-    }
+    },
+    docFooter: {
+      prev: 'Previous page',
+      next: 'Next page'
+    },
+    darkModeSwitchLabel: '外观',
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '返回顶部'
   }
 })
