@@ -46,13 +46,31 @@ export default defineConfig({
       }
     ],
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: '搜索',
+            buttonAriaLabel: '搜索'
+          },
+          modal: {
+            resetButtonTitle: '重置',
+            footer: {
+              selectText: '选择',
+              navigateText: '切换',
+              closeText: '关闭'
+            },
+            backButtonTitle: '返回顶部',
+            noResultsText: '没有相关结果'
+          }
+        }
+      }
     },
     docFooter: {
       prev: 'Previous page',
       next: 'Next page'
     },
-    darkModeSwitchLabel: '外观',
+    darkModeSwitchLabel: '主题',
     sidebarMenuLabel: '菜单',
     returnToTopLabel: '返回顶部'
   }
