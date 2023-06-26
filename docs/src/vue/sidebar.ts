@@ -11,7 +11,27 @@ export const vue = (): TsidebarItem[] => {
       items: [
         {
           text: 'Hello Vue2',
-          link: '/vue/vue2/index'
+          link: '/vue/vue2/hello'
+        },
+        {
+          text: '数据代理',
+          link: '/vue/vue2/dataProxy'
+        },
+        {
+          text: '数据监测',
+          link: '/vue/vue2/dataObserver'
+        },
+        {
+          text: '插值语法 {{}}',
+          link: '/vue/vue2/interSyntax'
+        },
+        {
+          text: '属性绑定指令 v-bind',
+          link: '/vue/vue2/propBinding'
+        },
+        {
+          text: '双向绑定指令 v-model',
+          link: '/vue/vue2/modelBinding'
         }
       ]
     },
