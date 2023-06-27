@@ -112,6 +112,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Vue-cli 配置代理',
           link: '/vue/vue2/vue-cli-proxy'
+        },
+        {
+          text: 'Vue2.0x配置全局axios',
+          link: '/vue/vue2/axios'
         }
       ]
     },
