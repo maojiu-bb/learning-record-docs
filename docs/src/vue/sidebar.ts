@@ -92,6 +92,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '插槽',
           link: '/vue/vue2/slot'
+        },
+        {
+          text: '自定义指令',
+          link: '/vue/vue2/customDirectives'
         }
       ]
     },
