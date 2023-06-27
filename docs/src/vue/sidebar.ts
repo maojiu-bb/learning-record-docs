@@ -163,6 +163,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '四个 mapXxx 方法',
           link: '/vue/vuex/maps'
+        },
+        {
+          text: 'Vuex 模块化&命名空间',
+          link: '/vue/vuex/moduleAndNameSpace'
         }
       ]
     },
