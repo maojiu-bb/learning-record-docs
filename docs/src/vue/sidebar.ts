@@ -68,6 +68,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '生命周期',
           link: '/vue/vue2/lifeCycle'
+        },
+        {
+          text: '单文件组件',
+          link: '/vue/vue2/singleFileComponent'
         }
       ]
     },
