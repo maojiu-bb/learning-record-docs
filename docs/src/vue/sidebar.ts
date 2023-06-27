@@ -32,6 +32,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '双向绑定指令 v-model',
           link: '/vue/vue2/modelBinding'
+        },
+        {
+          text: '事件绑定指令 v-on',
+          link: '/vue/vue2/eventBinding'
         }
       ]
     },
