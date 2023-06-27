@@ -155,6 +155,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '基本使用',
           link: '/vue/vuex/basicUse'
+        },
+        {
+          text: 'getters 的使用',
+          link: '/vue/vuex/useGetters'
         }
       ]
     },
