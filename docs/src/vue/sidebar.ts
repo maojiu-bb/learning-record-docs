@@ -133,7 +133,7 @@ export const vue = (): TsidebarItem[] => {
       items: [
         {
           text: 'Hello Vue-Router',
-          link: '/vue/vue-router/index'
+          link: '/vue/vue-router/hello'
         }
       ]
     },
