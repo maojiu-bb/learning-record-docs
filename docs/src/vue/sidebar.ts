@@ -76,6 +76,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'scoped 解决样式冲突',
           link: '/vue/vue2/scoped'
+        },
+        {
+          text: '组件通信',
+          link: '/vue/vue2/componentCommunication'
         }
       ]
     },
