@@ -96,6 +96,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '自定义指令',
           link: '/vue/vue2/customDirectives'
+        },
+        {
+          text: 'Mixin 混入',
+          link: '/vue/vue2/mixin'
         }
       ]
     },
