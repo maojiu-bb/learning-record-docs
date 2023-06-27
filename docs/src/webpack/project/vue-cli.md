@@ -1,5 +1,9 @@
 # Vue 脚手架
 
+:::tip
+[Vue-cli 官网](https://cli.vuejs.org/zh/)
+:::
+
 ## 开发模式配置
 
 ```js
