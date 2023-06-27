@@ -56,6 +56,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'computed 计算属性',
           link: '/vue/vue2/computed'
+        },
+        {
+          text: 'watch 侦听器',
+          link: '/vue/vue2/watch'
         }
       ]
     },
