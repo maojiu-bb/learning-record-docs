@@ -52,6 +52,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '过滤器',
           link: '/vue/vue2/filter'
+        },
+        {
+          text: 'computed 计算属性',
+          link: '/vue/vue2/computed'
         }
       ]
     },
