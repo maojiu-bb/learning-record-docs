@@ -64,6 +64,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '动态绑定 class 和 style',
           link: '/vue/vue2/dynamicBinding'
+        },
+        {
+          text: '生命周期',
+          link: '/vue/vue2/lifeCycle'
         }
       ]
     },
