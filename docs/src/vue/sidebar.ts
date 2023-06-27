@@ -142,7 +142,7 @@ export const vue = (): TsidebarItem[] => {
       items: [
         {
           text: 'Hello Vuex',
-          link: '/vue/vuex/index'
+          link: '/vue/vuex/hello'
         }
       ]
     },
