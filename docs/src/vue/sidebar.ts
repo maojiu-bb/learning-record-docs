@@ -104,6 +104,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '插件',
           link: '/vue/vue2/plugin'
+        },
+        {
+          text: 'NextTick',
+          link: '/vue/vue2/nextTick'
         }
       ]
     },
