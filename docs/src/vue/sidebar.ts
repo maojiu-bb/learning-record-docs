@@ -143,6 +143,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Hello Vuex',
           link: '/vue/vuex/hello'
+        },
+        {
+          text: 'Vuex 核心概念',
+          link: '/vue/vuex/coreConception'
         }
       ]
     },
