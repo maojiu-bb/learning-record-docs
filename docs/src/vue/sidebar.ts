@@ -108,6 +108,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'NextTick',
           link: '/vue/vue2/nextTick'
+        },
+        {
+          text: 'Vue-cli 配置代理',
+          link: '/vue/vue2/vue-cli-proxy'
         }
       ]
     },
