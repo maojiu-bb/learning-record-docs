@@ -88,6 +88,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'keep-alive',
           link: '/vue/vue2/keepAlive'
+        },
+        {
+          text: '插槽',
+          link: '/vue/vue2/slot'
         }
       ]
     },
