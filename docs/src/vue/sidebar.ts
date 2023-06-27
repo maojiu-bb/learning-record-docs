@@ -44,6 +44,14 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '列表渲染指令',
           link: '/vue/vue2/listDirectives'
+        },
+        {
+          text: '其他内置指令',
+          link: '/vue/vue2/otherDirectives'
+        },
+        {
+          text: '过滤器',
+          link: '/vue/vue2/filter'
         }
       ]
     },
