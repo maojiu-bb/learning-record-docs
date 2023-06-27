@@ -60,6 +60,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'watch 侦听器',
           link: '/vue/vue2/watch'
+        },
+        {
+          text: '动态绑定 class 和 style',
+          link: '/vue/vue2/dynamicBinding'
         }
       ]
     },
