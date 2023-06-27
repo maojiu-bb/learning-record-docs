@@ -147,6 +147,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Vuex 核心概念',
           link: '/vue/vuex/coreConception'
+        },
+        {
+          text: '搭建 Vuex 环境',
+          link: '/vue/vuex/environment'
         }
       ]
     },
