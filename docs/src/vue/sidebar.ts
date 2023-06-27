@@ -72,6 +72,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '单文件组件',
           link: '/vue/vue2/singleFileComponent'
+        },
+        {
+          text: 'scoped 解决样式冲突',
+          link: '/vue/vue2/scoped'
         }
       ]
     },
