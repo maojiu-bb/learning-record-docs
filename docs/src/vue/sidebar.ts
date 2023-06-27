@@ -80,6 +80,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '组件通信',
           link: '/vue/vue2/componentCommunication'
+        },
+        {
+          text: '动态组件',
+          link: '/vue/vue2/dynamicComponents'
         }
       ]
     },
