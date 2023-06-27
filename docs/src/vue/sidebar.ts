@@ -36,6 +36,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '事件绑定指令 v-on',
           link: '/vue/vue2/eventBinding'
+        },
+        {
+          text: '条件渲染指令',
+          link: '/vue/vue2/conditionDirectives'
         }
       ]
     },
