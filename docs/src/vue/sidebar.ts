@@ -100,6 +100,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Mixin 混入',
           link: '/vue/vue2/mixin'
+        },
+        {
+          text: '插件',
+          link: '/vue/vue2/plugin'
         }
       ]
     },
