@@ -40,6 +40,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '条件渲染指令',
           link: '/vue/vue2/conditionDirectives'
+        },
+        {
+          text: '列表渲染指令',
+          link: '/vue/vue2/listDirectives'
         }
       ]
     },
