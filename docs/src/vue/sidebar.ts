@@ -84,6 +84,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '动态组件',
           link: '/vue/vue2/dynamicComponents'
+        },
+        {
+          text: 'keep-alive',
+          link: '/vue/vue2/keepAlive'
         }
       ]
     },
