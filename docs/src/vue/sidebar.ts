@@ -170,6 +170,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '命名路由',
           link: '/vue/vue-router/namedRoutes'
+        },
+        {
+          text: '路由传参',
+          link: '/vue/vue-router/routeParameters'
         }
       ]
     },
