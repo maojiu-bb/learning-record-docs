@@ -124,7 +124,7 @@ export const vue = (): TsidebarItem[] => {
       items: [
         {
           text: 'Hello Vue3',
-          link: '/vue/vue3/index'
+          link: '/vue/vue3/hello'
         }
       ]
     },
