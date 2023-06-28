@@ -150,6 +150,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '声明式导航',
           link: '/vue/vue-router/declarNavigation'
+        },
+        {
+          text: '路由高亮',
+          link: '/vue/vue-router/routerActive'
         }
       ]
     },
