@@ -129,6 +129,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '创建 Vue3 工程',
           link: '/vue/vue3/createProject'
+        },
+        {
+          text: 'Vue3 项目结构',
+          link: '/vue/vue3/projectStructure'
         }
       ]
     },
