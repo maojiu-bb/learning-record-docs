@@ -146,6 +146,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'vue-router 初体验',
           link: '/vue/vue-router/firstExperience'
+        },
+        {
+          text: '声明式导航',
+          link: '/vue/vue-router/declarNavigation'
         }
       ]
     },
