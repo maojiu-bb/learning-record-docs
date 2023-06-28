@@ -174,6 +174,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '路由传参',
           link: '/vue/vue-router/routeParameters'
+        },
+        {
+          text: '路由元信息',
+          link: '/vue/vue-router/routeMeta'
         }
       ]
     },
