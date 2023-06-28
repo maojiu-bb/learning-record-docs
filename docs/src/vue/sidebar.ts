@@ -142,6 +142,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '单页面应用程序 SPA',
           link: '/vue/vue-router/spa'
+        },
+        {
+          text: 'vue-router 初体验',
+          link: '/vue/vue-router/firstExperience'
         }
       ]
     },
