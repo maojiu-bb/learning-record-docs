@@ -158,6 +158,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '路由重定向',
           link: '/vue/vue-router/redirect'
+        },
+        {
+          text: '嵌套路由',
+          link: '/vue/vue-router/nestedRoutes'
         }
       ]
     },
