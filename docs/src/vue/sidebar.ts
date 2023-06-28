@@ -133,6 +133,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Vue3 项目结构',
           link: '/vue/vue3/projectStructure'
+        },
+        {
+          text: '常用的 Composition API',
+          link: '/vue/vue3/compositionAPI'
         }
       ]
     },
