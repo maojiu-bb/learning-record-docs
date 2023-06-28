@@ -166,6 +166,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '编程式导航',
           link: '/vue/vue-router/programNavigation'
+        },
+        {
+          text: '命名路由',
+          link: '/vue/vue-router/namedRoutes'
         }
       ]
     },
