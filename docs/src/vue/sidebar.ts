@@ -154,6 +154,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '路由高亮',
           link: '/vue/vue-router/routerActive'
+        },
+        {
+          text: '路由重定向',
+          link: '/vue/vue-router/redirect'
         }
       ]
     },
