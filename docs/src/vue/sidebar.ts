@@ -182,6 +182,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '路由守卫',
           link: '/vue/vue-router/routeGuard'
+        },
+        {
+          text: 'Vue-Router 4.0x',
+          link: '/vue/vue-router/vue-router4'
         }
       ]
     },
