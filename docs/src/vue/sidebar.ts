@@ -162,6 +162,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '嵌套路由',
           link: '/vue/vue-router/nestedRoutes'
+        },
+        {
+          text: '编程式导航',
+          link: '/vue/vue-router/programNavigation'
         }
       ]
     },
