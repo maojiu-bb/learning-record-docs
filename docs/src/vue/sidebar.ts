@@ -125,6 +125,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Hello Vue3',
           link: '/vue/vue3/hello'
+        },
+        {
+          text: '创建 Vue3 工程',
+          link: '/vue/vue3/createProject'
         }
       ]
     },
