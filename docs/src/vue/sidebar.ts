@@ -134,6 +134,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Hello Vue-Router',
           link: '/vue/vue-router/hello'
+        },
+        {
+          text: '路由',
+          link: '/vue/vue-router/introduce'
         }
       ]
     },
