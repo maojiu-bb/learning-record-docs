@@ -276,6 +276,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: 'Setup Store',
           link: '/vue/pinia/setupStore'
+        },
+        {
+          text: '开发中使用',
+          link: '/vue/pinia/developUse'
         }
       ]
     }
