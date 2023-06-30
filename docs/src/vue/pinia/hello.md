@@ -18,5 +18,8 @@ Pinia 也是 Vue 的状态管理仓库，可以说是下一代的 Vuex。
 - 支持服务端渲染
 
 :::tip
+
+接下来的内容只是一部分内容，更多的详细细节请查看官方文档
+
 [Pinia 官方文档](https://pinia.vuejs.org/zh/introduction.html)
 :::
