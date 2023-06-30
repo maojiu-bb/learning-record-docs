@@ -149,6 +149,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '新的组件',
           link: '/vue/vue3/newComponent'
+        },
+        {
+          text: '其他改变',
+          link: '/vue/vue3/otherChange'
         }
       ]
     },
