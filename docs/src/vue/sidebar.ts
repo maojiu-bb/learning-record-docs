@@ -153,6 +153,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '其他改变',
           link: '/vue/vue3/otherChange'
+        },
+        {
+          text: '组件上的 v-model',
+          link: '/vue/vue3/v-model-component'
         }
       ]
     },
