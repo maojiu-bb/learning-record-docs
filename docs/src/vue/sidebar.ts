@@ -141,6 +141,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '其它 Composition API',
           link: '/vue/vue3/otherAPI'
+        },
+        {
+          text: 'Composition API 的优势',
+          link: '/vue/vue3/compositionAdvantage'
         }
       ]
     },
