@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { nav } from './config/nav'
 import { sidebar } from './config/sidebar'
-import { juejinSvg, giteeSvg } from './config/socialSvg'
+import { juejinSvg, giteeSvg, blogSvg } from './config/socialSvg'
 
 /**
  * @Configuration
@@ -43,6 +43,10 @@ export default defineConfig({
       {
         icon: { svg: juejinSvg() },
         link: 'https://juejin.cn/user/13638078834695'
+      },
+      {
+        icon: { svg: blogSvg() },
+        link: 'https://maojiu-bb.github.io/maojiu-blog/'
       }
     ],
     search: {
