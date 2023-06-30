@@ -263,7 +263,7 @@ export const vue = (): TsidebarItem[] => {
       items: [
         {
           text: 'Hello Pinia',
-          link: '/vue/pinia/index'
+          link: '/vue/pinia/hello'
         }
       ]
     }
