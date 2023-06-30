@@ -157,6 +157,10 @@ export const vue = (): TsidebarItem[] => {
         {
           text: '组件上的 v-model',
           link: '/vue/vue3/v-model-component'
+        },
+        {
+          text: 'Setup 语法糖',
+          link: '/vue/vue3/setup'
         }
       ]
     },
