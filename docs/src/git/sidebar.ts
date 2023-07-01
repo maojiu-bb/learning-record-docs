@@ -24,6 +24,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '查看日志信息 git log',
           link: '/git/reviewLog'
+        },
+        {
+          text: '分支命令',
+          link: '/git/branch'
         }
       ]
     }
