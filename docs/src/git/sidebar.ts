@@ -28,6 +28,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '分支命令',
           link: '/git/branch'
+        },
+        {
+          text: '版本穿梭与回滚',
+          link: '/git/version'
         }
       ]
     }
