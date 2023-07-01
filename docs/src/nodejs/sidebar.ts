@@ -20,6 +20,10 @@ export const nodejs = (): TsidebarItem[] => {
         {
           text: 'path 路径模块',
           link: '/nodejs/path'
+        },
+        {
+          text: 'http 模块',
+          link: '/nodejs/http'
         }
       ]
     }
