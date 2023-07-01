@@ -37,3 +37,7 @@ git 的通用操作流程如下图:
 :::tip
 [git 官网](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
 :::
+
+::: tip
+这里的内容摘录自[BruceBlog 的学习记录](https://brucecai55520.gitee.io/bruceblogpages/)
+:::
