@@ -20,6 +20,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '比较差异 git diff',
           link: '/git/compareDiff'
+        },
+        {
+          text: '查看日志信息 git log',
+          link: '/git/reviewLog'
         }
       ]
     }
