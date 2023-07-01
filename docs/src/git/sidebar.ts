@@ -12,6 +12,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '账户配置',
           link: '/git/accountConfig'
+        },
+        {
+          text: '本地基本操作',
+          link: '/git/localBasicUse'
         }
       ]
     }
