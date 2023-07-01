@@ -10,8 +10,8 @@ export const nodejs = (): TsidebarItem[] => {
       text: 'Nodejs 基础',
       items: [
         {
-          text: '',
-          link: ''
+          text: 'Buffer 缓冲区',
+          link: '/nodejs/buffer'
         }
       ]
     }
