@@ -36,6 +36,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '修改 commit 记录',
           link: '/git/changeCommit'
+        },
+        {
+          text: '远程仓库交互',
+          link: '/git/remote'
         }
       ]
     }
