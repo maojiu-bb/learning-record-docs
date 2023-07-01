@@ -32,6 +32,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '版本穿梭与回滚',
           link: '/git/version'
+        },
+        {
+          text: '修改 commit 记录',
+          link: '/git/changeCommit'
         }
       ]
     }
