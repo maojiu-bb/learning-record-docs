@@ -12,6 +12,10 @@ export const nodejs = (): TsidebarItem[] => {
         {
           text: 'Buffer 缓冲区',
           link: '/nodejs/buffer'
+        },
+        {
+          text: 'fs 文件系统模块',
+          link: '/nodejs/fs'
         }
       ]
     }
