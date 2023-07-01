@@ -16,6 +16,10 @@ export const nodejs = (): TsidebarItem[] => {
         {
           text: 'fs 文件系统模块',
           link: '/nodejs/fs'
+        },
+        {
+          text: 'path 路径模块',
+          link: '/nodejs/path'
         }
       ]
     }
