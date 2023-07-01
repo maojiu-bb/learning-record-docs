@@ -24,6 +24,10 @@ export const nodejs = (): TsidebarItem[] => {
         {
           text: 'http 模块',
           link: '/nodejs/http'
+        },
+        {
+          text: '模块化',
+          link: '/nodejs/module'
         }
       ]
     }
