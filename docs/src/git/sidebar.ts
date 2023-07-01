@@ -16,6 +16,10 @@ export const git = (): TsidebarItem[] => {
         {
           text: '本地基本操作',
           link: '/git/localBasicUse'
+        },
+        {
+          text: '比较差异 git diff',
+          link: '/git/compareDiff'
         }
       ]
     }
