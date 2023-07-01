@@ -46,7 +46,7 @@ export default defineConfig({
       },
       {
         icon: { svg: blogSvg() },
-        link: 'https://maojiu-bb.github.io/maojiu-blog/'
+        link: 'https://maojiu-bb.github.io/blog/'
       }
     ],
     search: {
