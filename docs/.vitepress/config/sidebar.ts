@@ -11,6 +11,7 @@ import { javascript } from '../../src/javascript/sidebar'
 import { vue } from '../../src/vue/sidebar'
 import { react } from '../../src/react/sidebar'
 import { git } from '../../src/git/sidebar'
+import { nodejs } from '../../src/nodejs/sidebar'
 
 /**
  *
@@ -24,6 +25,7 @@ export const sidebar = (): Tsidebar => {
     '/vue/': vue(),
     '/react/': react(),
     '/webpack/': webpack(),
-    '/git/': git()
+    '/git/': git(),
+    '/nodejs/': nodejs()
   }
 }

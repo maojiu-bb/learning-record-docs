@@ -94,7 +94,7 @@ export const nav = (): Tnav[] => {
       items: [
         {
           text: 'Node.js',
-          link: '../nodejs/README.md'
+          link: '/nodejs/index'
         },
         {
           text: 'Express',
