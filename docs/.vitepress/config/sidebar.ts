@@ -10,6 +10,7 @@ import { style } from '../../src/style/sidebar'
 import { javascript } from '../../src/javascript/sidebar'
 import { vue } from '../../src/vue/sidebar'
 import { react } from '../../src/react/sidebar'
+import { git } from '../../src/git/sidebar'
 
 /**
  *
@@ -22,6 +23,7 @@ export const sidebar = (): Tsidebar => {
     '/javascript/': javascript(),
     '/vue/': vue(),
     '/react/': react(),
-    '/webpack/': webpack()
+    '/webpack/': webpack(),
+    '/git/': git()
   }
 }

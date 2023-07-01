@@ -74,7 +74,7 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'Git',
-              link: '../git/README.md'
+              link: '/git/index'
             }
           ]
         },
