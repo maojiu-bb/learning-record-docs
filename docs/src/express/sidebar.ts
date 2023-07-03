@@ -20,6 +20,10 @@ export const express = (): TsidebarItem[] => {
         {
           text: 'Express 中间件',
           link: '/express/middleware'
+        },
+        {
+          text: 'CORS 跨域资源共享',
+          link: '/express/cors'
         }
       ]
     }
