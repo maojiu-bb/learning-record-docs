@@ -12,6 +12,14 @@ Express
 
 使用 express 框架可以快速、极简的构建一个 web 服务器。
 
+这里的使用介绍都是使用了 CommonJS，如果需要使用 ESModule，需要在`package.json`中进行配置：
+
+```json
+{
+  "type": "module"
+}
+```
+
 ::: tip
 这里的内容摘录自[BruceBlog 的学习记录](https://brucecai55520.gitee.io/bruceblogpages/)
 :::

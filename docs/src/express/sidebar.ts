@@ -12,6 +12,10 @@ export const express = (): TsidebarItem[] => {
         {
           text: 'Express 初体验',
           link: '/express/basicUse'
+        },
+        {
+          text: 'Express 路由',
+          link: '/express/router'
         }
       ]
     }
