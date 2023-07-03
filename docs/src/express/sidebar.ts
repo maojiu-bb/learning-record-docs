@@ -16,6 +16,10 @@ export const express = (): TsidebarItem[] => {
         {
           text: 'Express 路由',
           link: '/express/router'
+        },
+        {
+          text: 'Express 中间件',
+          link: '/express/middleware'
         }
       ]
     }
