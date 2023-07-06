@@ -36,6 +36,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '修改默认样式',
           link: '/vuepress/style'
+        },
+        {
+          text: 'Emoji 表情',
+          link: '/vuepress/emoji'
         }
       ]
     }
