@@ -99,10 +99,6 @@ export const nav = (): Tnav[] => {
         {
           text: 'Express',
           link: '/express/index'
-        },
-        {
-          text: 'Koa',
-          link: '../koa/README.md'
         }
       ]
     },
@@ -124,7 +120,7 @@ export const nav = (): Tnav[] => {
       items: [
         {
           text: 'VuePress',
-          link: '../vuepress/README.md'
+          link: '/vuepress/index'
         },
         {
           text: 'VitePress',
