@@ -40,6 +40,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: 'Emoji 表情',
           link: '/vuepress/emoji'
+        },
+        {
+          text: '避坑',
+          link: '/vuepress/avoidPit'
         }
       ]
     }
