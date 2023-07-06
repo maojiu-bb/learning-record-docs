@@ -13,6 +13,7 @@ import { react } from '../../src/react/sidebar'
 import { git } from '../../src/git/sidebar'
 import { nodejs } from '../../src/nodejs/sidebar'
 import { express } from '../../src/express/sidebar'
+import { vuepress } from '../../src/vuepress/sidebar'
 
 /**
  *
@@ -28,6 +29,7 @@ export const sidebar = (): Tsidebar => {
     '/webpack/': webpack(),
     '/git/': git(),
     '/nodejs/': nodejs(),
-    '/express/': express()
+    '/express/': express(),
+    '/vuepress/': vuepress()
   }
 }
