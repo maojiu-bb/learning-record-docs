@@ -48,6 +48,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '部署',
           link: '/vuepress/deploy'
+        },
+        {
+          text: '更新网站内容',
+          link: '/vuepress/update'
         }
       ]
     }
