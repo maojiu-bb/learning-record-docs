@@ -12,6 +12,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: 'VuePress体验',
           link: '/vuepress/create'
+        },
+        {
+          text: '目录结构',
+          link: '/vuepress/directoryStructure'
         }
       ]
     }
