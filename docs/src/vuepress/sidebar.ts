@@ -32,6 +32,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '侧边栏',
           link: '/vuepress/sidebar'
+        },
+        {
+          text: '修改默认样式',
+          link: '/vuepress/style'
         }
       ]
     }
