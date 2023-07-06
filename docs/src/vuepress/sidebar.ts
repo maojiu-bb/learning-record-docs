@@ -24,6 +24,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '首页',
           link: '/vuepress/homePage'
+        },
+        {
+          text: '导航栏',
+          link: '/vuepress/nav'
         }
       ]
     }
