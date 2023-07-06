@@ -11,3 +11,7 @@ VuePress 由两部分组成：第一部分是一个极简静态网站生成器 (
 :::tip
 [VuePress 官方文档](https://vuepress.vuejs.org/zh/)
 :::
+
+:::tip
+这里的内容摘录自[BruceBlog 的学习记录](https://brucecai55520.gitee.io/bruceblogpages/)
+:::

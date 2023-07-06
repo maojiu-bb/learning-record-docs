@@ -20,6 +20,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: 'config.js 文件配置',
           link: '/vuepress/config'
+        },
+        {
+          text: '首页',
+          link: '/vuepress/homePage'
         }
       ]
     }
