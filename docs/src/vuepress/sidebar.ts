@@ -16,6 +16,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '目录结构',
           link: '/vuepress/directoryStructure'
+        },
+        {
+          text: 'config.js 文件配置',
+          link: '/vuepress/config'
         }
       ]
     }
