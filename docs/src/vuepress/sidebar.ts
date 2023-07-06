@@ -10,8 +10,8 @@ export const vuepress = (): TsidebarItem[] => {
       text: 'VuePress',
       items: [
         {
-          text: '',
-          link: ''
+          text: 'VuePress体验',
+          link: '/vuepress/create'
         }
       ]
     }
