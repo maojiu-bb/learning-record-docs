@@ -28,6 +28,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '导航栏',
           link: '/vuepress/nav'
+        },
+        {
+          text: '侧边栏',
+          link: '/vuepress/sidebar'
         }
       ]
     }
