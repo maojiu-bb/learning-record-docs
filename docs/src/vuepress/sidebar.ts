@@ -44,6 +44,10 @@ export const vuepress = (): TsidebarItem[] => {
         {
           text: '避坑',
           link: '/vuepress/avoidPit'
+        },
+        {
+          text: '部署',
+          link: '/vuepress/deploy'
         }
       ]
     }
