@@ -24,6 +24,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '排序 & 分页',
           link: '/mongodb/sortAndPagination'
+        },
+        {
+          text: '聚合查询',
+          link: '/mongodb/aggregate'
         }
       ]
     }
