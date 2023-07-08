@@ -111,7 +111,7 @@ export const nav = (): Tnav[] => {
         },
         {
           text: 'MongoDB',
-          link: '../mongodb/README.md'
+          link: '/mongodb/index'
         }
       ]
     },

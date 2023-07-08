@@ -14,6 +14,7 @@ import { git } from '../../src/git/sidebar'
 import { nodejs } from '../../src/nodejs/sidebar'
 import { express } from '../../src/express/sidebar'
 import { vuepress } from '../../src/vuepress/sidebar'
+import { mongodb } from '../../src/mongodb/sidebar'
 
 /**
  *
@@ -30,6 +31,7 @@ export const sidebar = (): Tsidebar => {
     '/git/': git(),
     '/nodejs/': nodejs(),
     '/express/': express(),
-    '/vuepress/': vuepress()
+    '/vuepress/': vuepress(),
+    '/mongodb/': mongodb()
   }
 }
