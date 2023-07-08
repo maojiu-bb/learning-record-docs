@@ -42,8 +42,8 @@ export const react = (): TsidebarItem[] => {
       text: 'Redux',
       items: [
         {
-          text: 'Hello Redux',
-          link: '/react/redux/index'
+          text: 'Redux 介绍',
+          link: '/react/redux/introduce'
         }
       ]
     },
