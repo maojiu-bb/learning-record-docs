@@ -12,6 +12,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '基本操作',
           link: '/mongodb/basicUse'
+        },
+        {
+          text: '增删改查',
+          link: '/mongodb/curd'
         }
       ]
     }
