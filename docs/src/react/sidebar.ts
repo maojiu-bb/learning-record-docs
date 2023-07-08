@@ -12,7 +12,11 @@ export const react = (): TsidebarItem[] => {
       items: [
         {
           text: '项目搭建',
-          link: '/react/react-base/index'
+          link: '/react/react-base/createProject'
+        },
+        {
+          text: 'JSX 语法',
+          link: '/react/react-base/jsx'
         }
       ]
     },
