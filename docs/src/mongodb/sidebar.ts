@@ -20,6 +20,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: 'try catch',
           link: '/mongodb/tryCatch'
+        },
+        {
+          text: '排序 & 分页',
+          link: '/mongodb/sortAndPagination'
         }
       ]
     }
