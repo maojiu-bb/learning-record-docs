@@ -48,6 +48,10 @@ export const react = (): TsidebarItem[] => {
         {
           text: 'Redux 快速体验',
           link: '/react/redux/basicUse'
+        },
+        {
+          text: 'Redux 与 React',
+          link: '/react/redux/withReact'
         }
       ]
     },
