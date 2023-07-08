@@ -11,7 +11,7 @@ export const react = (): TsidebarItem[] => {
       text: 'React基础',
       items: [
         {
-          text: 'React入门',
+          text: '项目搭建',
           link: '/react/react-base/index'
         }
       ]
