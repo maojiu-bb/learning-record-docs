@@ -52,6 +52,10 @@ export const react = (): TsidebarItem[] => {
         {
           text: 'Redux 与 React',
           link: '/react/redux/withReact'
+        },
+        {
+          text: 'Todos 综合案例',
+          link: '/react/redux/todosProject'
         }
       ]
     },
