@@ -16,6 +16,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '增删改查',
           link: '/mongodb/curd'
+        },
+        {
+          text: 'try catch',
+          link: '/mongodb/tryCatch'
         }
       ]
     }
