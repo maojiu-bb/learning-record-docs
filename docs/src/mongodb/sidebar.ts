@@ -32,6 +32,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '优化索引',
           link: '/mongodb/optimizeIndex'
+        },
+        {
+          text: '权限机制',
+          link: '/mongodb/permission'
         }
       ]
     }
