@@ -40,6 +40,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '备份还原',
           link: '/mongodb/backupRestore'
+        },
+        {
+          text: 'Mongoose',
+          link: '/mongodb/mongoose'
         }
       ]
     }
