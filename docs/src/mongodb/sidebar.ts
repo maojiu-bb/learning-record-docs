@@ -28,6 +28,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '聚合查询',
           link: '/mongodb/aggregate'
+        },
+        {
+          text: '优化索引',
+          link: '/mongodb/optimizeIndex'
         }
       ]
     }
