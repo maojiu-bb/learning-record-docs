@@ -10,8 +10,8 @@ export const mongodb = (): TsidebarItem[] => {
       text: 'MongoDB',
       items: [
         {
-          text: '',
-          link: ''
+          text: '基本操作',
+          link: '/mongodb/basicUse'
         }
       ]
     }
