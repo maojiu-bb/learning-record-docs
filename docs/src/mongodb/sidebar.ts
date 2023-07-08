@@ -36,6 +36,10 @@ export const mongodb = (): TsidebarItem[] => {
         {
           text: '权限机制',
           link: '/mongodb/permission'
+        },
+        {
+          text: '备份还原',
+          link: '/mongodb/backupRestore'
         }
       ]
     }
