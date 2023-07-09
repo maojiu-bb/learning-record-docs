@@ -10,8 +10,8 @@ export const hexo = (): TsidebarItem[] => {
       text: 'Hexo',
       items: [
         {
-          text: '',
-          link: ''
+          text: '创建项目',
+          link: '/hexo/basicUse'
         }
       ]
     }
