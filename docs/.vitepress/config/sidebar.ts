@@ -15,6 +15,7 @@ import { nodejs } from '../../src/nodejs/sidebar'
 import { express } from '../../src/express/sidebar'
 import { vuepress } from '../../src/vuepress/sidebar'
 import { mongodb } from '../../src/mongodb/sidebar'
+import { hexo } from '../../src/hexo/sidebar'
 
 /**
  *
@@ -32,6 +33,7 @@ export const sidebar = (): Tsidebar => {
     '/nodejs/': nodejs(),
     '/express/': express(),
     '/vuepress/': vuepress(),
-    '/mongodb/': mongodb()
+    '/mongodb/': mongodb(),
+    '/hexo/': hexo()
   }
 }

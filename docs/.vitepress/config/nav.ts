@@ -128,7 +128,7 @@ export const nav = (): Tnav[] => {
         },
         {
           text: 'Hexo',
-          link: '../hexo/README.md'
+          link: '/hexo/index'
         }
       ]
     },

@@ -67,6 +67,15 @@ export const react = (): TsidebarItem[] => {
           link: '/react/zustand/index'
         }
       ]
+    },
+    {
+      text: 'Mobx',
+      items: [
+        {
+          text: '',
+          link: ''
+        }
+      ]
     }
   ]
 }
