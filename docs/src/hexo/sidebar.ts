@@ -12,6 +12,10 @@ export const hexo = (): TsidebarItem[] => {
         {
           text: '创建项目',
           link: '/hexo/basicUse'
+        },
+        {
+          text: '目录结构',
+          link: '/hexo/directoryStructure'
         }
       ]
     }
