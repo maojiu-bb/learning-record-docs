@@ -138,7 +138,7 @@ export const nav = (): Tnav[] => {
     },
     {
       text: '资源分享',
-      link: '../resource/README.md'
+      link: '/resource/resource'
     }
   ]
 }
