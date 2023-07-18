@@ -18,6 +18,8 @@ Dart 文件的扩展名为`.dart`
 
 - `hello.dart`
 
+所有的代码都要写在`main`函数中
+
 ```dart
 void main() {
   print('Hello Dart!');

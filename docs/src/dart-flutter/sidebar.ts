@@ -28,6 +28,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '数据类型转换',
           link: '/dart-flutter/dart/data-type-change'
+        },
+        {
+          text: '循环',
+          link: '/dart-flutter/dart/loop'
         }
       ]
     },
