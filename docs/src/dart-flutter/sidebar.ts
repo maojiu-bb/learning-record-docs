@@ -15,11 +15,15 @@ export const dartFlutter = (): TsidebarItem[] => {
         },
         {
           text: '变量与常量',
-          link: '/dart-flutter/dart/varAndConst'
+          link: '/dart-flutter/dart/var-const'
         },
         {
           text: 'List 和 Map',
-          link: '/dart-flutter/dart/listAndMap'
+          link: '/dart-flutter/dart/List-Map'
+        },
+        {
+          text: '运算符与条件判断',
+          link: '/dart-flutter/dart/operator-conditional'
         }
       ]
     },
