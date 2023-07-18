@@ -11,7 +11,11 @@ export const dartFlutter = (): TsidebarItem[] => {
       items: [
         {
           text: 'Dart 初体验',
-          link: '/dart-flutter/dart/index'
+          link: '/dart-flutter/dart/introduce'
+        },
+        {
+          text: '变量与常量',
+          link: '/dart-flutter/dart/varAndConst'
         }
       ]
     },
