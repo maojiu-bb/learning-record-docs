@@ -10,8 +10,8 @@ export const dartFlutter = (): TsidebarItem[] => {
       text: 'Dart',
       items: [
         {
-          text: '',
-          link: ''
+          text: 'Dart 初体验',
+          link: '/dart-flutter/dart/index'
         }
       ]
     },
