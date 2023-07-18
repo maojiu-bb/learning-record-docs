@@ -24,6 +24,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '运算符与条件判断',
           link: '/dart-flutter/dart/operator-conditional'
+        },
+        {
+          text: '数据类型转换',
+          link: '/dart-flutter/dart/data-type-change'
         }
       ]
     },
