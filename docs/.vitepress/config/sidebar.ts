@@ -16,6 +16,7 @@ import { express } from '../../src/express/sidebar'
 import { vuepress } from '../../src/vuepress/sidebar'
 import { mongodb } from '../../src/mongodb/sidebar'
 import { hexo } from '../../src/hexo/sidebar'
+import { dartFlutter } from '../../src/dart-flutter/sidebar'
 
 /**
  *
@@ -34,6 +35,7 @@ export const sidebar = (): Tsidebar => {
     '/express/': express(),
     '/vuepress/': vuepress(),
     '/mongodb/': mongodb(),
-    '/hexo/': hexo()
+    '/hexo/': hexo(),
+    '/dart-flutter': dartFlutter()
   }
 }

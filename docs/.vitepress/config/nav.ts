@@ -51,8 +51,8 @@ export const nav = (): Tnav[] => {
               link: '../react-native/README.md'
             },
             {
-              text: 'Flutter',
-              link: '../flutter/README.md'
+              text: 'Dart Flutter',
+              link: '/dart-flutter/index'
             }
           ]
         },
