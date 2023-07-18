@@ -16,6 +16,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '变量与常量',
           link: '/dart-flutter/dart/varAndConst'
+        },
+        {
+          text: 'List 和 Map',
+          link: '/dart-flutter/dart/listAndMap'
         }
       ]
     },
