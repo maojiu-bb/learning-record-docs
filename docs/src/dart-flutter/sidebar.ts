@@ -36,6 +36,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: 'List常用属性和方法',
           link: '/dart-flutter/dart/list'
+        },
+        {
+          text: 'Set',
+          link: '/dart-flutter/dart/set'
         }
       ]
     },
