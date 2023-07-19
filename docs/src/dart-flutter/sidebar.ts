@@ -80,6 +80,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '抽象类',
           link: '/dart-flutter/dart/abstract-class'
+        },
+        {
+          text: '多态',
+          link: '/dart-flutter/dart/polymorphism'
         }
       ]
     },
