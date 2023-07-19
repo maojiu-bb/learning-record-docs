@@ -44,6 +44,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: 'Map常用的属性和方法',
           link: '/dart-flutter/dart/map'
+        },
+        {
+          text: '常用的遍历方法',
+          link: '/dart-flutter/dart/traverse'
         }
       ]
     },
