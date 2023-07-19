@@ -48,6 +48,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '常用的遍历方法',
           link: '/dart-flutter/dart/traverse'
+        },
+        {
+          text: '函数',
+          link: '/dart-flutter/dart/function'
         }
       ]
     },
