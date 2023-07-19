@@ -72,6 +72,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '对象操作符',
           link: '/dart-flutter/dart/object-operator'
+        },
+        {
+          text: '继承',
+          link: '/dart-flutter/dart/extends'
         }
       ]
     },
