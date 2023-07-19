@@ -56,6 +56,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '类和对象',
           link: '/dart-flutter/dart/class'
+        },
+        {
+          text: '私有属性',
+          link: '/dart-flutter/dart/private'
         }
       ]
     },
