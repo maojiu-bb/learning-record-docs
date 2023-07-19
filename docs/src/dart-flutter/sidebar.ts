@@ -60,6 +60,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '私有属性',
           link: '/dart-flutter/dart/private'
+        },
+        {
+          text: 'getter和setter',
+          link: '/dart-flutter/dart/getter-setter'
         }
       ]
     },
