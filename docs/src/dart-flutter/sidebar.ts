@@ -88,6 +88,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '接口',
           link: '/dart-flutter/dart/interface'
+        },
+        {
+          text: 'Mixin 混入',
+          link: '/dart-flutter/dart/mixin'
         }
       ]
     },
