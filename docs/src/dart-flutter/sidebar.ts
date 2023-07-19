@@ -40,6 +40,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: 'Set',
           link: '/dart-flutter/dart/set'
+        },
+        {
+          text: 'Map常用的属性和方法',
+          link: '/dart-flutter/dart/map'
         }
       ]
     },
