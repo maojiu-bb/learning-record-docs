@@ -68,6 +68,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '静态成员和方法',
           link: '/dart-flutter/dart/static'
+        },
+        {
+          text: '对象操作符',
+          link: '/dart-flutter/dart/object-operator'
         }
       ]
     },
