@@ -84,6 +84,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '多态',
           link: '/dart-flutter/dart/polymorphism'
+        },
+        {
+          text: '接口',
+          link: '/dart-flutter/dart/interface'
         }
       ]
     },
