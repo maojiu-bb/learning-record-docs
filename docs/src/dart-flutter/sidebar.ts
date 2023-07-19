@@ -52,6 +52,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '函数',
           link: '/dart-flutter/dart/function'
+        },
+        {
+          text: '类和对象',
+          link: '/dart-flutter/dart/class'
         }
       ]
     },
