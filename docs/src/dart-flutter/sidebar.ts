@@ -76,6 +76,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '继承',
           link: '/dart-flutter/dart/extends'
+        },
+        {
+          text: '抽象类',
+          link: '/dart-flutter/dart/abstract-class'
         }
       ]
     },
