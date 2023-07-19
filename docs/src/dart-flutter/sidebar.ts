@@ -32,6 +32,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '循环',
           link: '/dart-flutter/dart/loop'
+        },
+        {
+          text: 'List常用属性和方法',
+          link: '/dart-flutter/dart/list'
         }
       ]
     },
