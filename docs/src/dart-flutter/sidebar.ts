@@ -64,6 +64,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: 'getter和setter',
           link: '/dart-flutter/dart/getter-setter'
+        },
+        {
+          text: '静态成员和方法',
+          link: '/dart-flutter/dart/static'
         }
       ]
     },
