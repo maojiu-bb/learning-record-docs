@@ -96,6 +96,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '泛型',
           link: '/dart-flutter/dart/generic'
+        },
+        {
+          text: '库',
+          link: '/dart-flutter/dart/storehouse'
         }
       ]
     },
