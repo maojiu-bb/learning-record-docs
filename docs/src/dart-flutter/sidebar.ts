@@ -92,6 +92,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: 'Mixin 混入',
           link: '/dart-flutter/dart/mixin'
+        },
+        {
+          text: '泛型',
+          link: '/dart-flutter/dart/generic'
         }
       ]
     },
