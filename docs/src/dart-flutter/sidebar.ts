@@ -100,6 +100,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '库',
           link: '/dart-flutter/dart/storehouse'
+        },
+        {
+          text: '常量构造函数',
+          link: '/dart-flutter/dart/const-function'
         }
       ]
     },
