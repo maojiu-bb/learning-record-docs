@@ -121,6 +121,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '运行项目',
           link: '/dart-flutter/flutter/run'
+        },
+        {
+          text: '组件',
+          link: '/dart-flutter/flutter/components'
         }
       ]
     }
