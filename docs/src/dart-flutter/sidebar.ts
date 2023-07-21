@@ -113,6 +113,10 @@ export const dartFlutter = (): TsidebarItem[] => {
         {
           text: '配置开发环境',
           link: '/dart-flutter/flutter/start'
+        },
+        {
+          text: '创建 Flutter 项目',
+          link: '/dart-flutter/flutter/create'
         }
       ]
     }
