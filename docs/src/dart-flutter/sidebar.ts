@@ -111,8 +111,8 @@ export const dartFlutter = (): TsidebarItem[] => {
       text: 'Flutter',
       items: [
         {
-          text: '',
-          link: ''
+          text: '配置开发环境',
+          link: '/dart-flutter/flutter/start'
         }
       ]
     }
