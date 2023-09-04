@@ -44,7 +44,7 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'uni-app',
-              link: '../uni-app/README.md'
+              link: '/uni-app/index.md'
             },
             {
               text: 'React Native',
