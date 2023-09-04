@@ -63,8 +63,8 @@ export const react = (): TsidebarItem[] => {
       text: 'Zustand',
       items: [
         {
-          text: 'Hello Zustand',
-          link: '/react/zustand/index'
+          text: 'Zustand 介绍',
+          link: '/react/zustand/introduce'
         }
       ]
     },
@@ -72,8 +72,8 @@ export const react = (): TsidebarItem[] => {
       text: 'Mobx',
       items: [
         {
-          text: '',
-          link: ''
+          text: 'Mobx 介绍',
+          link: '/react/mobx/introduce'
         }
       ]
     }

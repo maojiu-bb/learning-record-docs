@@ -31,11 +31,11 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'Vue',
-              link: '/vue/index.md'
+              link: '/vue/index'
             },
             {
               text: 'React',
-              link: '/react/index.md'
+              link: '/react/index'
             }
           ]
         },
@@ -44,11 +44,11 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'uni-app',
-              link: '/uni-app/index.md'
+              link: '/uni-app/index'
             },
             {
               text: 'React Native',
-              link: '../react-native/README.md'
+              link: '/react-native/index'
             },
             {
               text: 'Dart Flutter',
@@ -65,7 +65,7 @@ export const nav = (): Tnav[] => {
             },
             {
               text: 'Vite',
-              link: '../vite/README.md'
+              link: '/vite/index'
             }
           ]
         },
@@ -83,7 +83,7 @@ export const nav = (): Tnav[] => {
           items: [
             {
               text: 'TypeScript',
-              link: '../typescript/README.md'
+              link: '/typescript/index'
             }
           ]
         }
@@ -107,7 +107,7 @@ export const nav = (): Tnav[] => {
       items: [
         {
           text: 'MySQL',
-          link: '../mysql/README.md'
+          link: '/mysql/index'
         },
         {
           text: 'MongoDB',
@@ -124,17 +124,13 @@ export const nav = (): Tnav[] => {
         },
         {
           text: 'VitePress',
-          link: '../vitepress/README.md'
+          link: '/vitepress/index'
         },
         {
           text: 'Hexo',
           link: '/hexo/index'
         }
       ]
-    },
-    {
-      text: '个人项目',
-      link: '../project/README.md'
     },
     {
       text: '资源分享',
