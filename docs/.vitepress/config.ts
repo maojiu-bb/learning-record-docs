@@ -8,6 +8,7 @@ import { juejinSvg, giteeSvg, blogSvg } from './config/socialSvg'
  */
 
 export default defineConfig({
+  base: '/learning-record-docs/',
   title: 'MaoJiuBlog',
   description: 'A learning recorder docs',
   lang: 'zh-CN',
