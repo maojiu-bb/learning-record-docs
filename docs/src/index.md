@@ -14,10 +14,10 @@ hero:
       link: /html/index
     - theme: alt
       text: GitHub
-      link: https://github.com/ox4f5da2
+      link: https://github.com/maojiu-bb/learning-record-docs
     - theme: alt
       text: Gitee
-      link: https://gitee.com/maojiubb
+      link: https://gitee.com/maojiubb/learning-record-docs
 
 features:
   - icon: 🛠️
