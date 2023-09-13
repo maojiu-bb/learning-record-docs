@@ -137,7 +137,7 @@ export default [
         icon: 'https://www.redux.org.cn/gitbook/images/favicon.ico',
         title: 'Redux 中文文档',
         desc: '民间高手翻译的文档',
-        link: 'https://www.redux.org.cn/n'
+        link: 'https://www.redux.org.cn'
       },
       {
         icon: 'https://reactrouter.com/favicon-light.png',
@@ -533,13 +533,13 @@ export default [
         icon: 'https://cn.vuejs.org/logo.svg',
         title: 'VitePress',
         desc: '基于 Vite 和 Vue 的静态网站生成器，简易、强大、高效。VuePress 的升级版',
-        link: 'https://vitepress.dev/'
+        link: 'https://vitejs.cn/vitepress/'
       },
       {
         icon: 'https://cn.vuejs.org/logo.svg',
         title: 'VuePress',
         desc: 'Vue 驱动的静态网站生成器',
-        link: 'https://vuepress.vuejs.org/zh/'
+        link: 'https://www.vuepress.cn'
       },
       {
         icon: 'https://docsify.js.org/_media/favicon.ico',
