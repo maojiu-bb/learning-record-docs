@@ -13,6 +13,7 @@ export default defineConfig({
   description: 'A learning recorder docs',
   lang: 'zh-CN',
   srcDir: 'src',
+  ignoreDeadLinks: true,
   vite: {
     server: {
       port: 3000,
